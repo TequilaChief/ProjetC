@@ -1,4 +1,4 @@
-char* lastSyllabe(char str[],int i){
+char* lastSyllable(char str[],int i){
     char *pch;
     char *last_syllable;
     pch = strtok (str,"-");
